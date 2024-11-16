@@ -20,7 +20,7 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: 
 RegisterNumber:  
 */
-```
+
 
 ## Output:
 <img width="659" alt="Screenshot 2024-11-15 at 9 54 05 AM" src="https://github.com/user-attachments/assets/64c7e100-937b-43e1-a71a-dbd3a58429fa">
